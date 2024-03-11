@@ -1,0 +1,7 @@
+option file
+
+[keyoptions]:
+beforek = 7,
+nextk = 8,
+pausk = 9,
+playkl = 0, \r,
